@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuronForConvert", "NeuronForConvert\NeuronForConvert.csproj", "{8C9B6DC8-80CD-4DE0-8A31-7356D670812F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C9B6DC8-80CD-4DE0-8A31-7356D670812F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9B6DC8-80CD-4DE0-8A31-7356D670812F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9B6DC8-80CD-4DE0-8A31-7356D670812F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9B6DC8-80CD-4DE0-8A31-7356D670812F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA6E5AED-8A69-4BF1-83A4-9A43F4D56828}
+	EndGlobalSection
+EndGlobal
